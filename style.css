@@ -64,7 +64,7 @@ body{
 }
 .leftContainer ul li{
     list-style-position: inside;
-    list-style-image: url(/assets/images/icon-list.svg);
+    list-style-image: url(assets/images/icon-list.svg);
     background-repeat: no-repeat;
     margin: .5rem 0;
     
