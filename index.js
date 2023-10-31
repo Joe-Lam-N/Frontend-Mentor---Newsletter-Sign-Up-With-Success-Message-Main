@@ -94,10 +94,10 @@ let image = document.querySelector(".rightContainer");
 function screenSize(){
     x  = window.screen.width;
     if(x>375){
-        image.innerHTML = `<img src="/assets/images/illustration-sign-up-desktop.svg" alt="Desktop Image">`;
+        image.innerHTML = `<img src="assets/images/illustration-sign-up-desktop.svg" alt="Desktop Image">`;
     }
     else{
-        image.innerHTML = `<img src="/assets/images/illustration-sign-up-mobile.svg" alt="Mobile Image">`
+        image.innerHTML = `<img src="assets/images/illustration-sign-up-mobile.svg" alt="Mobile Image">`
     }
 }
 
